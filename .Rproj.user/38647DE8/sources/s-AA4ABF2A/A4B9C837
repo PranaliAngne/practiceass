@@ -3,7 +3,7 @@
     "path": "~/Documents/practiceass/Tutorial8.Rmd",
     "project_path": "Tutorial8.Rmd",
     "type": "r_markdown",
-    "hash": "676624071",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1619980371915.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "55,9",
-        "scrollLine": "34"
+        "cursorPosition": "59,5",
+        "scrollLine": "47"
     },
     "folds": "",
-    "lastKnownWriteTime": 1619982109,
+    "lastKnownWriteTime": 1619982281,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1619982109856,
+    "last_content_update": 1619982281,
     "read_only": false,
     "read_only_alternatives": []
 }
